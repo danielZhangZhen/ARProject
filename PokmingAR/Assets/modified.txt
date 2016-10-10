@@ -1,0 +1,10 @@
+ Models
+ Models.meta
+ Plugins/Android/AndroidManifest.xml
+ Plugins/Android/AndroidManifest.xml.meta
+ Plugins/UniWebViewPluginMacEditor.cs
+ Plugins/UniWebViewPluginMacEditor.cs.meta
+ Pokemon/Pokemon_AR.unity
+ Pokemon/Scripts/InfoController.cs
+ Pokemon/Scripts/MainController.cs
+ Pokemon/Scripts/SetMainData.cs
