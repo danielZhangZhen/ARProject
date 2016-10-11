@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Home>
+    <ZhanTingInfo iOSURL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_AllCars_ExportediPhone.unity3d" iOSName="4sShop_AllCars_Exported" iOSBundle="1" AndroidURL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_AllCars_ExportedAndroid.unity3d" AndroidName="4sShop_AllCars_Exported" AndroidBundle="1" />
+    <WebShopURL WebShopURL="http://m.lmoar.com/" />
+  </Home>
+  <ZhanTing>
+    <CarInfo RequestCarName="A1">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_A1_ExportediPhone.unity3d" Name="4sShop_A1_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_A1_ExportedAndroid.unity3d" Name="4sShop_A1_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="A3">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_A3_ExportediPhone.unity3d" Name="4sShop_A3_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_A3_ExportedAndroid.unity3d" Name="4sShop_A3_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="A4">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_A4_ExportediPhone.unity3d" Name="4sShop_A4_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_A4_ExportedAndroid.unity3d" Name="4sShop_A4_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="A5">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_A5_ExportediPhone.unity3d" Name="4sShop_A5_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_A5_ExportedAndroid.unity3d" Name="4sShop_A5_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="A6">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_A6_ExportediPhone.unity3d" Name="4sShop_A6_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_A6_ExportedAndroid.unity3d" Name="4sShop_A6_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="A7">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_A7_ExportediPhone.unity3d" Name="4sShop_A7_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_A7_ExportedAndroid.unity3d" Name="4sShop_A7_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="A8">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_A8_ExportediPhone.unity3d" Name="4sShop_A8_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_A8_ExportedAndroid.unity3d" Name="4sShop_A8_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="Q3">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_Q3_ExportediPhone.unity3d" Name="4sShop_Q3_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_Q3_ExportedAndroid.unity3d" Name="4sShop_Q3_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="Q5">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_Q5_ExportediPhone.unity3d" Name="4sShop_Q5_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_Q5_ExportedAndroid.unity3d" Name="4sShop_Q5_Exported" BundleID="1" />
+    </CarInfo>
+    <CarInfo RequestCarName="Q7">
+      <IOS URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2FiOS%2F4sShop_Q7_ExportediPhone.unity3d" Name="4sShop_Q7_Exported" BundleID="1" />
+      <Android URL="http://lmsj-assets.oss-cn-qingdao.aliyuncs.com/2B%2Fnanao%2Fandroid%2F4sShop_Q7_ExportedAndroid.unity3d" Name="4sShop_Q7_Exported" BundleID="1" />
+    </CarInfo>
+  </ZhanTing>
+  <Web>
+    <WebInfo Name="homePage" URL="http://zslmzd.lmoar.com/" />
+    <WebInfo Name="Audi_A1" URL="http://naaudi.com/wap/product/401" />
+    <WebInfo Name="Audi_A3" URL="http://naaudi.com/wap/product/601" />
+    <WebInfo Name="Audi_A4" URL="http://naaudi.com/wap/product/806" />
+    <WebInfo Name="Audi_A5" URL="http://naaudi.com/wap/product/806" />
+    <WebInfo Name="Audi_A6" URL="http://naaudi.com/wap/product/806" />
+    <WebInfo Name="Audi_A7" URL="http://naaudi.com/wap/product/806" />
+    <WebInfo Name="Audi_A8" URL="http://naaudi.com/wap/product/806" />
+    <WebInfo Name="Audi_Q3" URL="http://naaudi.com/wap/product/603" />
+    <WebInfo Name="Audi_Q5" URL="http://naaudi.com/wap/product/804" />
+    <WebInfo Name="Audi_Q7" URL="http://naaudi.com/wap/product/805" />
+    <WebInfo Name="CarHub" URL="http://naaudi.com/wap/product/1032" />
+    <WebInfo Name="CarFootPad" URL="http://naaudi.com/wap/product/1022" />
+    <WebInfo Name="CarWindowFilm" URL="http://naaudi.com/wap/product/1031" />
+    <WebInfo Name="CarSeat" URL="http://naaudi.com/wap/product/1231" />
+    <WebInfo Name="CarColor" URL="http://naaudi.com/wap/product/1031" />
+  </Web>
+  <Share>
+    <ShareInfo RequsetName="A1" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/A1/index.html" />
+    <ShareInfo RequsetName="A3" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/A3/index.html" />
+    <ShareInfo RequsetName="A4" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/A4/index.html" />
+    <ShareInfo RequsetName="A5" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/A5/index.html" />
+    <ShareInfo RequsetName="A6" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/A6/index.html" />
+    <ShareInfo RequsetName="A7" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/A7/index.html" />
+    <ShareInfo RequsetName="A8" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/A8/index.html" />
+    <ShareInfo RequsetName="Q3" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/Q3/index.html" />
+    <ShareInfo RequsetName="Q5" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/Q5/index.html" />
+    <ShareInfo RequsetName="Q7" Name="灵墨汽车" Content="灵墨汽车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="灵墨汽车" Description="灵墨汽车" URL="http://www.lmoar.com/audi/Q7/index.html" />
+    <ShareInfo RequsetName="MoYan" Name="十元购车" Content="十元购车" Image="http://lmo.oss-cn-shenzhen.aliyuncs.com/2B/LMCar/000%20logo.png" Title="十元购车" Description="十元购车" URL="http://zslmzd.lmoar.com/" />
+  </Share>
+</root>
