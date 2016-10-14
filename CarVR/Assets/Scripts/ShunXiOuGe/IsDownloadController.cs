@@ -116,14 +116,15 @@ public class IsDownloadController : MonoBehaviour
         {
             tipsUI.SetActive(false);
             loadingUI.SetActive(true);
-            StartCoroutine(DownloadSceneAssetBundle());
+      
         }
         else if (string.Compare(clickArrow, "SXOG_10") == 0)
         { //为了防止两个箭头上的脚本同时下载
             tipsUI.SetActive(false);
             loadingUI.SetActive(true);
-            StartCoroutine(DownloadSceneAssetBundle());
+          
         }
+        StartCoroutine(DownloadSceneAssetBundle());
     }
 
     private void OnNoBtnClick()
