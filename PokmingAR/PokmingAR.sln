@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokmingAR.CSharp.Plugins", "PokmingAR.CSharp.Plugins.csproj", "{095A4AF8-CEA7-9281-03C9-31C737ED5657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokmingAR.CSharp", "PokmingAR.CSharp.csproj", "{86364C12-0CFE-951E-3BB5-C132B7410241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokmingAR.CSharp.Editor", "PokmingAR.CSharp.Editor.csproj", "{9ABF84E0-12A7-C254-1274-13B48FBEF03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095A4AF8-CEA7-9281-03C9-31C737ED5657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095A4AF8-CEA7-9281-03C9-31C737ED5657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095A4AF8-CEA7-9281-03C9-31C737ED5657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095A4AF8-CEA7-9281-03C9-31C737ED5657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86364C12-0CFE-951E-3BB5-C132B7410241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86364C12-0CFE-951E-3BB5-C132B7410241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86364C12-0CFE-951E-3BB5-C132B7410241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86364C12-0CFE-951E-3BB5-C132B7410241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABF84E0-12A7-C254-1274-13B48FBEF03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABF84E0-12A7-C254-1274-13B48FBEF03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABF84E0-12A7-C254-1274-13B48FBEF03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABF84E0-12A7-C254-1274-13B48FBEF03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
